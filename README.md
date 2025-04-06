@@ -92,3 +92,18 @@ Adicione validação para entradas do usuário (por exemplo, verifique se idade 
 Implementar operações adicionais de banco de dados (por exemplo, atualizar detalhes do usuário ).
 
 Crie uma interface gráfica de usuário para uma experiência mais amigável .
+
+// Explicação Adicional para Iniciantes:
+
+SQLite: É um sistema de gerenciamento de banco de dados leve e embutido, ideal para aplicações simples.
+Comandos SQL:
+CREATE TABLE: Cria uma nova tabela no banco de dados.
+INSERT INTO: Adiciona novos registros (linhas) a uma tabela.
+DELETE FROM: Remove registros de uma tabela.
+WHERE: Filtra os registros com base em uma condição.
+async/await: Permite escrever código assíncrono de forma mais legível, como se fosse síncrono.
+readline: Permite interagir com o usuário no console, lendo a entrada do teclado.
+try...catch: Usado para tratar erros que podem ocorrer durante a execução do código.
+.then() e .catch(): Usado para lidar com o resultado de promessas (operações assíncronas).
+.finally(): Usado para executar um bloco de código independentemente de a promessa ter sido resolvida ou rejeitada.
+switch...case: Usado para executar diferentes blocos de código com base no valor de uma variável.
