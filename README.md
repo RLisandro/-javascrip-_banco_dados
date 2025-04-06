@@ -1,5 +1,3 @@
-Claro! Aqui está um README detalhado para o seu código, ideal para um usuário iniciante:
-
 Gerenciamento de Usuários com Node.js e SQLite
 Este projeto Node.js permite gerenciar informações de usuários armazenadas em um banco de dados SQLite. Você pode adicionar, deletar e limpar registros de usuários através de um menu interativo no console.
 
